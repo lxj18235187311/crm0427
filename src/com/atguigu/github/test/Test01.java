@@ -6,6 +6,7 @@ public class Test01 {
 		System.out.println("Hello0427");
 		System.out.println("Hello Github 服务器");
 		System.out.println("Hello 服务器回应");
+		System.out.println("update m1 insert");
 	}
 
 }
