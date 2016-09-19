@@ -10,6 +10,5 @@ public class Test01 {
 		System.out.println("update m1 insert");
 		System.out.println("22222222222");
 		System.out.println("11111111111");
-		System.out.println("冲突了。。。。。。。。。。");
 	}
 }
